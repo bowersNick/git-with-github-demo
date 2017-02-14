@@ -9,3 +9,5 @@ Disallow:
 # some line
 # adding a line for testing pull
 # This line has been added to demonstrate the usage of "git push"
+# This line has been added to demonstrate the use of ssh:wq
+
